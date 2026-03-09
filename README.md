@@ -324,8 +324,8 @@ python3 test_suite.py
 ### 乐盟互动 LemClaw
 
 - **技术支持**: aoqian@lemhd.cn
-- **商务合作**: business@lemclaw.com
-- **官网**: https://www.lemclaw.com
+- **商务合作**: mast@lemhd.cn
+- **官网**: http://www.lemeng123.com
 
 ### 开发者平台
 
